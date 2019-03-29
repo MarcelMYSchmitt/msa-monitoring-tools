@@ -1,0 +1,1 @@
+This prometheus is meant only for local usage for docker compose.
